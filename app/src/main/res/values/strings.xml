@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ADPP</string>
+    <string name="app_tagline">Nền tảng luyện tập tranh biện AI</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_explore">Khám phá</string>
+    <string name="nav_debate">Tranh biện</string>
+    <string name="nav_competition">Giải đấu</string>
+    <string name="nav_profile">Cá nhân</string>
+
+    <!-- Common Actions -->
+    <string name="action_continue">Tiếp tục</string>
+    <string name="action_skip">Bỏ qua</string>
+    <string name="action_get_started">Bắt đầu ngay</string>
+    <string name="action_sign_in">Đăng nhập</string>
+    <string name="action_sign_up">Đăng ký</string>
+    <string name="action_demo_mode">Trải nghiệm chế độ dùng thử</string>
+    <string name="action_forgot_password">Quên mật khẩu?</string>
+    <string name="action_save">Lưu thay đổi</string>
+    <string name="action_cancel">Hủy</string>
+    <string name="action_confirm">Xác nhận</string>
+    <string name="action_start_debate">Bắt đầu tranh biện</string>
+    <string name="action_submit_argument">Gửi lập luận</string>
+    <string name="action_end_debate">Kết thúc phiên</string>
+    <string name="action_practice_again">Luyện tập lại</string>
+    <string name="action_back_home">Về trang chủ</string>
+    <string name="action_sign_out">Đăng xuất</string>
+</resources>
